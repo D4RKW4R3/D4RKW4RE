@@ -1,0 +1,1 @@
+Só copiar o código do ASCII Forensic.py e executar.
