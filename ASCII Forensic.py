@@ -203,7 +203,7 @@ elif escolha == '4':
     a opção 1 irá criar em seu dispositivo um arquivo chamado ASCII.txt com a fonte
     da tabela inclusive, para que você tenha a tabela.
     A opção 2 você pode utilizar para fazer uma análise manual.
-    A opção 3 já deduz automaticcamente quais caracteres não são "normais".
+    A opção 3 já deduz automaticamente quais caracteres não são "normais".
     (mesmo assim prefira a análise manual para melhor acurácia).
     
     Vale lembrar que, isso é válido para, quando você sabe que o link existe, mas
