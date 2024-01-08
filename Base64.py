@@ -30,3 +30,4 @@ else:
 
 
 #Python que codifica ou decodifica Base64. Só executar no Terminal.
+#Exemplo de aplicação: https://youtu.be/EIpNP1m8vec
